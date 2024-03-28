@@ -6,7 +6,7 @@ Starter Template by Miles
 
 # Credits
 
-**First the people that helped piece this together:**
+**The people and teams that helped piece this together:**
 
 * Dev and Prod workflow based on Finsweet Dev Starter and comes packaged with finsweet-ts utils for accessing Webflow objects. 
 
