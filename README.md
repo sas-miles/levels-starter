@@ -1,6 +1,6 @@
 # Levels
 
-**Starter Template by Miles 
+Starter Template by Miles 
 
 **Tailored for Webflow & Three JS Projects**
 
